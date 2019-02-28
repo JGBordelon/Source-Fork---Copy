@@ -1,0 +1,4 @@
+﻿Screen Size is 23" Diagonal, 1280 x 1024 = 71.27ppi or 28.0591 ppcm
+
+TODO fix writing to database
+TODO fix stimulus size and label positions on sorting trial
